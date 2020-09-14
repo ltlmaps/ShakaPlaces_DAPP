@@ -1,17 +1,17 @@
 # LTL-Maps-React-Native
 [![Donate with Ethereum](https://en.cryptobadges.io/badge/micro/0xF6E8156B3001C177C6aA35D90F7D643FF52a960d)](https://en.cryptobadges.io/donate/0xF6E8156B3001C177C6aA35D90F7D643FF52a960d)
 
-UI/UX Interface
+# UI/UX Interface
 
 Rather than competing against former Web2 platforms, we will use the Abridged SDK to build a layer on top of the DAO to enhance the UX. This means creating systems that limit the change in user behavior, and make group decisions, manage resources (money) within Whatsapp, Telegram or any messenger platform.
 
 The principal innovation of crypto networks is their ability to grow network effects by enabling users to share in the value they create. With each new database entry, or user, the service becomes more valuable to each individual user, generating a network effect. Valuable crypto services now have the unique opportunity to redistribute that value directly to the users who generate it. Designed correctly, an effective distribution of a fee stream can further entrench network effects by giving users a direct economic incentive to contribute, generating more defensibility, which in turn, reinforces the viability of the fee stream in the first place. 
 
-Token - $LTL
+# Token - $LTL
 
 LTL is an ERC-20 token. It will be used to stake in the system, and as a governance token when the governance module is launched. As it conforms to the ERC-20 standard, the $LTL token will be tradeable on any exchange and storable on any wallet - allowing anyone in the world to access it.
 
-Distribution
+# Distribution
 
 The challenge is getting enough revenue soon enough, for teams to be able to keep contributing. Revenue generation can draw on ideas from Web1 & Web2 businesses — but with less extractive rates. Importantly, the token must be designed such that its value rises as usage rises. But there’s still one big problem: too little revenue, too late. I’ll elaborate. If rates are too high, it will either get forked and re-deployed with lower rates, or it won’t get adopted because it’s seen as too extractive. If rates are too low (and usage isn’t sufficient) then revenue is too low. Either way, teams won’t have enough funding to keep growing the project. They will stoically or heroically keep going for a while, until they can’t feed their family. Some may pull through. And most will be forced to stop, at which point the project begins its fade into oblivion. Good news! We can overcome the challenge of “too little revenue, too late”. It takes a key change: rather than disburse all the tokens at the beginning of the project, disburse a large fraction of tokens over a much longer period of time to the workers that are adding value to the project. This gives teams a longer runway to iterate towards product-market fit (PMF), and more funds to catalyze growth once PMF is achieved.
 
@@ -25,7 +25,7 @@ Token could be launched via a ~2 week liquidity mining phase, using the increasi
 
 If pools suffer from a lack of liquidity = large fluctuations in price with low volume . Health of any project can be determined by their liquidity . To improve this , it would be optimal for $LTL to be provided to LP’s on both balancer and uniswap . This along with market place mining would lead to more wider distribution and also put the tokens held in wallets into the liquidity pools.
 
-Governance
+# Governance
 
 The $LTL token will be the system’s governance token, empowering $LTL holders to vote on updates to the platform. Combining governance mechanisms and incentivizing holders, it will serve as a means to align the different stakeholders in the system. $LTL will also serve as a security and policy management medium. Decentralized, automated governance, that incentivizes participants and aims for security, sustainability, and participant welfare is key to a protocol’s success.
 
@@ -42,7 +42,7 @@ Discord is for for support, features requests, and initial development ideas. We
 3) Get feedback from the team: If your idea clicked with the community, and we see active interest and feedback, the request is granted the “proposal candidate” status. At this point, the team evaluates if implementing the idea is technically possible at the moment.
 4) Vote: The proposal is put for a final vote
 
-DAO First Approach
+# DAO First Approach
 
 LiveTheLifeTV is taking a “DAO First Approach” to spinning up the protocol, choosing to use decentralized tools from the start to achieve our final goal of complete decentralization and having a flexible smart contract system able to add / upgrade / remove functionality all based on DAO proposals. There will be an incubator DAO called MVP FUND DAO & the final protocol DAO called LiveTheLifeTV DAO.
 
@@ -66,23 +66,21 @@ Most DAOs will only have two and a half of these. That's ok, but understanding w
 
 Good DAOs are fun. They spark joy. If you don't have this, no one will put up with the trials and tribulations of Web3 technology and decentralized governance. The system needs to adapt to the needs of members, not the other way around. If you find yourself adapting your workflows in awkward ways to adapt to the limitations of your DAO you're doing it wrong. The structure of your should evolve as the needs and goals of the members evolve. Adapt or die.
 
-MVP FUND DAO
+# MVP FUND DAO
 
 Starting with MVP FUND DAO, the Founders, Seeders, and Advisors are using an Aragon DAO Company Template which uses transferable tokens to represent ownership stake. Decisions are made based on stake-weighted voting. The native token of the Launch DAO will be $LTLVOTE. The Founders will receive 45%, Seeders will receive 45%, and Advisors will get 10%. The support will be set to 62%, which means more than 62% of the voting shares need to be present at a vote. The minimum will be set to 62%, meaning for a proposal to be passed it must be approved by at least 62%.
 
 The funds from the seeders and the initial supply of the $LTL token will be kept in the MVP FUND DAO treasury. MVP FUND DAO will also have Aragon Agent activated and we will possibly develop integrations for Uniswap pool allocation and Balancer pool allocation control directly into the DAO.
 
-LiveTheLifeTV DAO
+# LiveTheLifeTV DAO
 
 LiveTheLifeTV DAO will be the DAO that is controlled by the $LTL community. The LiveTheLifeTV DAO will have full control over the protocol and the features that are built into it. 
 
-Scope of Work
-
-First DAO Charter
+# First DAO Charter
 
 IMPORTANT NOTE: This is an alpha release of a potential model DAO Charter for the DAO's wishing to function as unincorporated association. https://livethelife.tv/dao/
 
-First 10K Experiment
+# First 10K Experiment
 
 The DAO is a decentralized organization initialized in Jan of 2021 and has a maximum of 100 unique stakeholder addresses.
 Community investment DAO led by founders and builders. A private investment club that distributes to the community via a DAO and a bonding curve. Thesis: DeFi tools to tokenize media, travel & real estate. Aragon has key functions such as integrated treasury management and fundraising modules
@@ -107,13 +105,11 @@ The council acts as the project team being funded by the fundraising campaign. C
 
 Take Note; We now see https://github.com/BarnBridge/ as another mindset to fork
 
-Development Introduction
+# Development Introduction
 
 The following section describes the MVP / Beta release of the product, which will help inform the product development direction, allow us to start collecting data and ensure the product is aligned with what the market needs.
 
 We are determined to provide a great user experience for users, making sure previous pools are visible and our community can make a well informed decision about when and how to join in. However, we expect the community to build some of the analytics which will accompany the core product. We welcome this development as it will provide more insight into the product.
-
-Components & Timelines
 
 Through the decentralized governance, member-driven model, we hope to provide rules for and manage the following:
 Collect & Manage Funds
@@ -124,20 +120,20 @@ Establish/Update Policies
 Provide Transparency
 Reward Code, Design and Content
 
-BUILDING BLOCKS
+# Components & Timelines
 
 #aragon  - Governance and Decision-Making?
 #sourcecred  - Tracking and Rewarding Contributions?
 #abridged  - Onboarding and Navigation?
 #parachute - Liquidity Mining
 
-MVP FUND DAO
+# MVP FUND DAO
 
 We will use the community contracts based on Aragon DAO Company Template to create the base of the core DAO. Because the contracts have already been in production for so long, we trust the functionality and features they provide. We expect to do minimum changes to the initial source code. However, we will create tests for our most common use cases, make sure the user flow makes sense and the users have an easy UX to join in the DAO.
 
     Estimated time to build, test and launch: 6 weeks
 
-LiveTheLifeTV DAO
+# LiveTheLifeTV DAO
 
 This subsequent DAO might need to have multiple specific functionality that the Aragon DAO Company Template does not already have. The LiveTheLifeTV DAO will become the core component of the LTL Platform because it will be able to make decisions in a decentralized manner that will be able to enforce the best actions for the wellness of the community.
 
@@ -158,7 +154,7 @@ People can use their tokens for things on-chain. (Moloch, Colony, DeFi, etc...)
 People may or may not also be able to use tokens for in-game features/rewards, but to do they might have to burn, stake, or trade their tokens. (dependent on the use case of each project)
 ###
 
-LTL MEDIA 
+# LTL MEDIA 
 
 A magazine owned and governed by the contributors and readers. Where contributors submit articles, photos and videos. And where readers interested in participating in the curation of the magazine buy tokens on a bonding curve and stake on articles that get submitted. When contributors submit an article, they are also submitting a request for payment. If their submission reaches a support threshold they will be rewarded by the DAO. The magazine will explore the Unlock protocol for membership subscriptions. Contributors get shares of governance and profit.  Readers could subscribe for a base price, but could also pay a higher tier into a reserve pool, which grants them profit share and governance ability. So, revenue is split between the common pool and the bonding curve reserve, to reward both contributors and curators.
 
@@ -169,7 +165,7 @@ Users can submit places and content as a "conviction voting proposal", if the co
 The essential point to grasp is that the token model directly links the usage of the network to the value of the token
 subscription is a creator to audience relationship, but it's hard to build a community (fans can't create value), tokenized access is a membership model: everyone wants to share and make the community more valuable (meritocratic media network)
 
-LTL TRAVEL
+# LTL TRAVEL
 
 We are building a privacy-first location-based dapp to share magic places with real friends. Dedicated to the vision of web3, we are buidling a mobile app owned and governed by the contributors and users. A dapp, to publish, explore, and share places to Live The Life. We change the user experience by surfacing content on your timeline, based on your current location. A platform for travel-loving creators to upload original content can be beneficial to those considering a vacation — while being rewarding for storytellers.
 
@@ -179,7 +175,7 @@ Similar to Swarm, allow users to get rewarded for visiting real-world locations,
 
 Incentivise anyone using the LTL Maps app to travel to a location, and get rewarded for spending quality time. Experimentation and iteration will be required to optimize the model and establish best practices. We explore the idea of having LTL Maps and it's Community to be owned and developed by two Aragon DAO's with a legal wrapper.
 
-LTL REAL ESTATE
+# LTL REAL ESTATE
 
 While we focus on the launch of our online magazine and the new LTL Maps App, we have never made it a secret that our endgame is to tokenize LTL Eco Pods. When an asset owner decides to tokenize a property, an Ethereum-standard (ERC20) real estate token (also called a security token) is created to represent shares of the property. The total value of all tokens will be equivalent to the total value of the securitized asset. (PDF Deloitte / Tokeny: Tokenized real estate)
 
@@ -195,26 +191,26 @@ The complimentary back-end and front-end.
 
 An additional external audit will push the launch on the mainnet by approximately 6 weeks.
 
-Smart Contracts
+# Smart Contracts
 
 Because we want to have a completely decentralized system, our whole infrastructure is based around a community driven DAO. The DAO will be the owner of the core contracts of the system and will be able to define what the contracts are able to do.
 
 To keep the core philosophy of having a completely decentralized system, we will use a decentralized oracle system such as Chainlink. This will allow us to do off-chain computation that can be later used on-chain. Of course this off-chain system can be replaced and upgraded by the DAO.
 
-Audit & Simulations
+# Audit & Simulations
 
-Post-MVP
+# Post-MVP
 
 The post MVP, or the next release of the product will have the mainnet release as its highlight. 
 
-Future Work
+# Future Work
 
-Gas Fees
+# Gas Fees
 
 As multiple operations with different gas costs are necessary, these fees can add up pretty quickly. There are layer 2 solutions that would increase scalability and allow for complex operations and large numbers of transfers while simultaneously reducing associated costs. A potential solution that has already hit mainnet (looking at you Loopring) are zk rollups - which at a high level involve the bundling up transfers into a single transaction. Most of the computations are done off chain, and enforced through validity proofs. Moving the heavy lifting off-chain allows for much higher throughput, keeps costs lower, and - just as importantly - doesn’t sacrifice security. For an app that targets large numbers of active users, a solution aimed at scalability is the way to go.
 
 
-Team
+# Team
 
 Core Team
 
