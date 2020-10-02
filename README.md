@@ -1,5 +1,9 @@
+A privacy-first location-based dapp to share magic places & reward participation.  
+
 # LTL-Maps-React-Native
 [![Donate with Ethereum](https://en.cryptobadges.io/badge/micro/0xF6E8156B3001C177C6aA35D90F7D643FF52a960d)](https://en.cryptobadges.io/donate/0xF6E8156B3001C177C6aA35D90F7D643FF52a960d)
+
+We are currently working on the backend code of our MVP. Below are some thoughts and ideas about Web3 & DeFi tools to tokenize media, travel & real estate. You can read more on (https://www.livethelife.tv). Next challenge: legal framework and pre-seed fundraising. As much as we love the roadmap below, if you read up on https://fairmint.co/ you can see that today there is solution that is plug & play. The catch: we need to qualify to use the fairmint platform. So we need to consider USA incorporation, and pushing back on some of the tools and concepts below.    
 
 # UI/UX Interface
 
@@ -80,11 +84,9 @@ LiveTheLifeTV DAO will be the DAO that is controlled by the $LTL community. The 
 
 IMPORTANT NOTE: This is an alpha release of a potential model DAO Charter for the DAO's wishing to function as unincorporated association. https://livethelife.tv/dao/
 
-# First 10K Experiment
+# Abridged Experiment
 
-The DAO is a decentralized organization initialized in Jan of 2021 and has a maximum of 100 unique stakeholder addresses.
-Community investment DAO led by founders and builders. A private investment club that distributes to the community via a DAO and a bonding curve. Thesis: DeFi tools to tokenize media, travel & real estate. Aragon has key functions such as integrated treasury management and fundraising modules
-The Abridged.io/Collab.land service allows for higher quality communities like Karma DAO. The DAO will exist to control, govern, manage, and direct all decisions on behalf of the token holders. This includes strategic decisions, as well as operational maintenance such as paying developers. Inspired by https://github.com/melonproject/dao-fund-framework
+The Abridged.io/Collab.land service allows for higher quality communities like Karma DAO. The DAO will exist to control, govern, manage, and direct all decisions on behalf of the token holders. This includes strategic decisions, as well as operational maintenance such as paying developers. 
 
 Step 1: Explore and setup the collab.land bot on TG & Discord
 Step2: Connect the bot with Metamask.
@@ -154,7 +156,7 @@ People can use their tokens for things on-chain. (Moloch, Colony, DeFi, etc...)
 People may or may not also be able to use tokens for in-game features/rewards, but to do they might have to burn, stake, or trade their tokens. (dependent on the use case of each project)
 ###
 
-# LTL MEDIA 
+# LTL MEDIA V1
 
 A magazine owned and governed by the contributors and readers. Where contributors submit articles, photos and videos. And where readers interested in participating in the curation of the magazine buy tokens on a bonding curve and stake on articles that get submitted. When contributors submit an article, they are also submitting a request for payment. If their submission reaches a support threshold they will be rewarded by the DAO. The magazine will explore the Unlock protocol for membership subscriptions. Contributors get shares of governance and profit.  Readers could subscribe for a base price, but could also pay a higher tier into a reserve pool, which grants them profit share and governance ability. So, revenue is split between the common pool and the bonding curve reserve, to reward both contributors and curators.
 
@@ -165,7 +167,7 @@ Users can submit places and content as a "conviction voting proposal", if the co
 The essential point to grasp is that the token model directly links the usage of the network to the value of the token
 subscription is a creator to audience relationship, but it's hard to build a community (fans can't create value), tokenized access is a membership model: everyone wants to share and make the community more valuable (meritocratic media network)
 
-# LTL TRAVEL
+# LTL TRAVEL V2
 
 We are building a privacy-first location-based dapp to share magic places with real friends. Dedicated to the vision of web3, we are buidling a mobile app owned and governed by the contributors and users. A dapp, to publish, explore, and share places to Live The Life. We change the user experience by surfacing content on your timeline, based on your current location. A platform for travel-loving creators to upload original content can be beneficial to those considering a vacation — while being rewarding for storytellers.
 
@@ -175,7 +177,7 @@ Similar to Swarm, allow users to get rewarded for visiting real-world locations,
 
 Incentivise anyone using the LTL Maps app to travel to a location, and get rewarded for spending quality time. Experimentation and iteration will be required to optimize the model and establish best practices. We explore the idea of having LTL Maps and it's Community to be owned and developed by two Aragon DAO's with a legal wrapper.
 
-# LTL REAL ESTATE
+# LTL REAL ESTATE V3
 
 While we focus on the launch of our online magazine and the new LTL Maps App, we have never made it a secret that our endgame is to tokenize LTL Eco Pods. When an asset owner decides to tokenize a property, an Ethereum-standard (ERC20) real estate token (also called a security token) is created to represent shares of the property. The total value of all tokens will be equivalent to the total value of the securitized asset. (PDF Deloitte / Tokeny: Tokenized real estate)
 
