@@ -3,7 +3,7 @@ A privacy-first location-based dapp to share magic places & reward participation
 # LTL-Maps-React-Native
 [![Donate with Ethereum](https://en.cryptobadges.io/badge/micro/0xF6E8156B3001C177C6aA35D90F7D643FF52a960d)](https://en.cryptobadges.io/donate/0xF6E8156B3001C177C6aA35D90F7D643FF52a960d)
 
-We are currently working on the backend code of our MVP. Below are some thoughts and ideas about Web3 & DeFi tools to tokenize media, travel & real estate. You can read more on (https://www.livethelife.tv). Next challenge: legal framework and pre-seed fundraising. As much as we love the roadmap below, if you read up on https://fairmint.co/ you can see that today there is solution that is plug & play. The catch: we need to qualify to use the fairmint platform. So we need to consider USA incorporation, and pushing back on some of the tools and concepts below.    
+We are currently working on the backend code of our MVP. Below are some thoughts and ideas about Web3 & DeFi tools to tokenize media, travel & real estate. You can read more on (https://www.livethelife.tv). Next challenge: legal framework and pre-seed fundraising. As much as we love the roadmap below, if you read up on https://fairmint.co/ you can see that today there is solution that is plug & play. The catch: we need to qualify to use the fairmint platform. So we need to consider USA incorporation, before we deploy.    
 
 # UI/UX Interface
 
