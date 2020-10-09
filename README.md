@@ -1,4 +1,4 @@
-A privacy-first location-based dapp to share magic places & reward participation.  
+A privacy-first location-based dapp to share magic places & reward participation. Every upvote, like button, star, follower etc is powered by an underlying token and early customers who help build those products are actually going to participate in the upside. Take note that tokens are currently NOT transferable, they might be swapped to an equivalent transferrable token at a later stage, once the DAO will reach maturity. Owning these tokens makes you a member and lets you participate in the DAO’s governance votes and proposing votes of their own. Want to join? https://livethelife.tv/join/  
 
 # LTL-Maps-React-Native
 [![Donate with Ethereum](https://en.cryptobadges.io/badge/micro/0xF6E8156B3001C177C6aA35D90F7D643FF52a960d)](https://en.cryptobadges.io/donate/0xF6E8156B3001C177C6aA35D90F7D643FF52a960d)
